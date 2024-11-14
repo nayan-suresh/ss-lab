@@ -46,7 +46,9 @@ end {while not END}
 write last line to intermediate file
 save (LOCCTR - starting address} as program length
 end {Pass 1}
-Pass 2:
+
+
+Pass 2:
 
 begin
 read first input line {from intermediate file)
